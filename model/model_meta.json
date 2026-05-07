@@ -1,0 +1,13 @@
+{
+  "features": [
+    "mins_since_last",
+    "hour_of_day",
+    "drinks_today",
+    "avg_interval",
+    "activity_level",
+    "time_of_day_bucket"
+  ],
+  "accuracy": 95.17,
+  "n_samples": 3000,
+  "model": "GradientBoostingClassifier (TinyML proxy)"
+}
